@@ -1,1 +1,13 @@
-This is readme file.
+My Project
+---
+ 
+Welcome.
+ 
+ 
+ 
+Setup
+---
+ 
+```
+npm install
+```
